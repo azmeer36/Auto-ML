@@ -1,0 +1,7 @@
+[theme]
+
+primaryColor = "#48CAE4"  # Purple
+backgroundColor = "#ffffff"  # White
+secondaryBackgroundColor = "#90E0EF"  # Light purple
+textColor = "#000000"  # Dark gray for text
+font = "sans serif"
