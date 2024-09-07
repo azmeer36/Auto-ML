@@ -1,7 +1,8 @@
 # **Auto ML** 🎯
 
 Welcome to the **Auto ML** project, an all-in-one solution for automating the entire Machine Learning workflow, from data preprocessing to model deployment. This tool is designed to empower users with little or no coding experience to efficiently create machine learning models, generate insights, and make predictions. Auto ML simplifies the complexity of Machine Learning into a user-friendly, step-by-step process.
-![modelling1](https://github.com/user-attachments/assets/5ab3d3ce-efb1-484f-b652-1764c151c0db)
+<img src="https://github.com/user-attachments/assets/5ab3d3ce-efb1-484f-b652-1764c151c0db" alt="modelling1" width="800"/>
+
 
 ## **Table of Contents** 📚
 - [Introduction](#introduction)
