@@ -50,7 +50,7 @@ To get the Auto ML project up and running locally, follow these steps:
 
 1. **Clone the repository** from GitHub:
     ```bash
-    git clone https://github.com/azmeer36/Auto_Ml.git
+    git clone https://github.com/azmeer36/Auto-Ml.git
     ```
 
 2. **Install the required dependencies**:
